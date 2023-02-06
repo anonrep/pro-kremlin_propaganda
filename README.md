@@ -1,6 +1,6 @@
 # pro-kremlin_propaganda
 an anonymous repository for the paper 'Automated multilingual detection of Pro-Kremlin propaganda in newspapers and Telegram posts'
-
+\n
 1.)Some paths would need to be changed on your local computer.
 2.) SVM model and all optimization, arguments and parameters for BERT are avaiable in ./model. BERT model itself is too heavy for github and will be sent upon request.
 SVM model receives a vector of 157 features.
